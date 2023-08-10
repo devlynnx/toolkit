@@ -12,7 +12,7 @@
         "../http-client"
       ]
     },
-    "useUnknownInCatchVariables": false
+    "useUnknownInCatchVariables": false,
   },
   "include": [
     "./src"
